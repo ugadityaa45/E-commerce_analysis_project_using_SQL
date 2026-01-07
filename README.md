@@ -26,6 +26,10 @@ shipping – shipping and delivery status
 
 All queries are written strictly using the available schema without assuming extra columns.
 
+# ER-Diagram
+
+![erd ](https://github.com/user-attachments/assets/4ad0c944-7694-4cff-8055-837d94ecb56d)
+
 # 🎯 Key Objectives
 
 Analyze sales and revenue performance
