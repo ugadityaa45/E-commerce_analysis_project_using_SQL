@@ -1,5 +1,10 @@
+
+
 # E-commerce_analysis_project_using_SQL
+
 Analyzed an e-commerce database using SQL to extract insights on sales performance, revenue by category, customer behavior, and regional trends using clean, optimized, production-ready queries.
+
+<img width="826" height="439" alt="Screenshot 2026-01-07 165426 - Copy" src="https://github.com/user-attachments/assets/ded82649-111f-4606-8dce-f1962bcfbaf7" />
 
 
 # 🧩 Database Schema
